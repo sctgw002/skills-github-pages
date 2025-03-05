@@ -22,14 +22,16 @@
 |  kycResult    |  boolean       |  KYC status         |
 
 ### Example Response
-const jsonString = `{
+
+```json
+{
   "code": 200,
   "data": [
     {
+      "uid": "1098631518919999489",
       "kycResult": false,
-      "registerTime": 1739863765000,
-      "uid": "1098631518919999489"
+      "registerTime": 1739863765000
     }
   ],
   "success": "success"
-}`;
+}
