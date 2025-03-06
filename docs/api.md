@@ -1,5 +1,5 @@
 
-[Home]({{ site.baseurl }}/index.html)
+# ({{ site.baseurl }}/index.html)
 # API Developer Guide
 
 ## Get Affiliate UIDs
