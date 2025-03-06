@@ -13,9 +13,10 @@
 |  pageSize    |  int       |  No         | Paging size, default is 10     |  10    |
 
 ### Response 
+
 |  Parameter  |     Type     | Description |
-|-------------|-------------|-------------|
-|  uid        |  String     | KOL uid     |
+|-------------|--------------|--------------|
+|  uid        |  String      |   KOL uid    |
 |  registerTime  |  Long       |  Registration timestamp, unit: milliseconds         |
 |  kycResult    |  boolean       |  KYC status         |
 
