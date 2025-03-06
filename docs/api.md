@@ -1,6 +1,4 @@
-
-# ({{ site.baseurl }}/index.html)
-# API Developer Guide
+#[Home]({{ site.baseurl }}/index.html) API Developer Guide
 
 ## Get Affiliate UIDs
   - Method: GET
